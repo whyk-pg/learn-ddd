@@ -1,15 +1,14 @@
-# Learn NestJS
+# Learn DDD
 
 ## 本リポジトリの目的
-直近で使う可能性があるので、CRUDの処理に一通り慣れたい
+NestJSを使ってドメイン駆動開発とコマンドクエリ責務分離を学ぶ
 
 ## 本リポジトリの達成目標
 - [x] NestJSでプロジェクトを構築する
-- [ ] PostgreSQLとPrismaを導入して疎通させる
-- [ ] リソースの作成を実装する
-- [ ] リソースの読込を実装する
-- [ ] リソースの更新を実装する
-- [ ] リソースの削除を実装する
+- [ ] Prismaを導入してTiDB Serverlessと疎通させる
+- [ ] DDDハンズオン本を読みながら作業を進める
+- [ ] DDDハンズオン本で作られたAPIにCQRSを導入する
 
 ## 参考資料
 - [Documentation | NestJS - A progressive Node.js framework](https://docs.nestjs.com/)
+- [【DDD入門】TypeScript × ドメイン駆動設計ハンズオン](https://zenn.dev/yamachan0625/books/ddd-hands-on)
